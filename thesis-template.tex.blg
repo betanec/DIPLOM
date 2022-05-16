@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'thesis-template.tex.blg'
+[40] biber:322> INFO - === Ср мая 11, 2022, 21:14:28
+[54] Utils.pm:309> ERROR - Cannot find 'thesis-template.tex.bcf'!
+[55] Biber.pm:132> INFO - ERRORS: 1

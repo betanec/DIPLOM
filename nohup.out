@@ -1,0 +1,317 @@
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./thesis-template.tex
+LaTeX2e <2018-12-01>
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(./chapters/thesis-template-macro.tex
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/makecmds/makecmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/tuenc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-russian.ldf
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/babelsh.def))
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-english.ldf)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/catchfile.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty))
+
+Package ifplatform Warning: 
+    shell escape is disabled, so I can only detect \ifwindows.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f))))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex))
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty)) (./pstheorems.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/paralist/paralist.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/block.tss)
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty)
+(./mathpartir.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/gost-numeric.dbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/biblatex-gost.dbx))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/gost-numeric.bbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/gost-standard.bbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/biblatex-gost.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/gost-numeric.cbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg)))
+(./chapters/0-params.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/english-gost.lbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/russian-gost.lbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/russian.lbx)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/russian.lbx))
+(./thesis-template.aux
+
+LaTeX Warning: Label `eq:mesh_points' multiply defined.
+
+) (/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(./thesis-template.out) (./thesis-template.out)
+ABD: EveryShipout initializing macros (./thesis-template.bbl)
+(./title/title.tex (./title/blank-header.tex
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Overfull \vbox (16.00995pt too high) detected at line 19
+)
+Overfull \hbox (5.74298pt too wide) in paragraph at lines 17--3
+[]
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--3
+
+) [1] (./title/task.tex (./title/blank-header.tex
+Overfull \vbox (16.00995pt too high) detected at line 19
+)
+Overfull \hbox (5.74298pt too wide) in paragraph at lines 17--3
+[]
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--3
+
+
+Overfull \hbox (0.72363pt too wide) in paragraph at lines 26--26
+ []\TU/LinuxLibertineO(1)/m/n/10 п/п| 
+
+Underfull \vbox (badness 10000) detected at line 110
+
+Underfull \hbox (badness 3375) in paragraph at lines 112--113
+[]|\TU/LinuxLibertineO(1)/m/n/10 Реализация статической библиотеки адаптированн
+ых
+
+Overfull \hbox (4.2945pt too wide) in paragraph at lines 113--114
+ []|\TU/LinuxLibertineO(1)/m/n/10 Исполняемые 
+
+Underfull \hbox (badness 3375) in paragraph at lines 116--117
+[]|\TU/LinuxLibertineO(1)/m/n/10 Реализация статической библиотеки адаптированн
+ых
+
+Overfull \hbox (4.2945pt too wide) in paragraph at lines 117--118
+ []|\TU/LinuxLibertineO(1)/m/n/10 Исполняемые 
+
+Underfull \hbox (badness 3375) in paragraph at lines 120--121
+[]|\TU/LinuxLibertineO(1)/m/n/10 Реализация статической библиотеки адаптированн
+ых
+
+Overfull \hbox (4.2945pt too wide) in paragraph at lines 121--122
+ []|\TU/LinuxLibertineO(1)/m/n/10 Исполняемые 
+
+Overfull \hbox (4.2945pt too wide) in paragraph at lines 125--126
+ []|\TU/LinuxLibertineO(1)/m/n/10 Исполняемые 
+[2])
+Overfull \hbox (2.0pt too wide) in paragraph at lines 159--43
+ []
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--43
+
+[3] (./chapters/thesis-template-abstract.tex) [1] (./thesis-template.toc
+Overfull \hbox (3.7218pt too wide) in paragraph at lines 33--33
+ [] [][]\TU/LinuxLibertineO(1)/bx/n/12 Проектирование интерфейсов классов, функ
+ций и динамически подключаемого мо- 
+) [2] (./chapters/thesis-template-intro.tex
+Overfull \hbox (2.1988pt too wide) in paragraph at lines 8--9
+\TU/LinuxLibertineO(1)/m/n/12 модели, с помощью которой осуществляется генераци
+я сюжета, действия из которого осуществ-
+
+Overfull \hbox (1.68077pt too wide) in paragraph at lines 10--11
+\TU/LinuxLibertineO(1)/m/n/12 их преимущества и недостатки по сравнению с искус
+ственными нейронными сетями Word2vec.
+
+Overfull \hbox (2.95074pt too wide) in paragraph at lines 12--13
+[]\TU/LinuxLibertineO(1)/m/n/12 Во втором разделе приводятся теоретические выкл
+адки описания экспертной системы. Опи-
+) [3] (./chapters/thesis-template-chapter1.tex
+Глава 1.
+
+Overfull \hbox (6.6867pt too wide) in paragraph at lines 4--6
+[]\TU/LinuxLibertineO(1)/m/n/12 Проводится анализ по выявлению существующих нед
+оработок прототипа. Выявляются недо-
+
+LaTeX Warning: File `./img/ris1.png' not found on input line 33.
+
+! Unable to load picture or PDF file './img/ris1.png'.
+<to be read again> 
+                   }
+l.33 ...cs[width=0.75\columnwidth]{./img/ris1.png}
+                                                  
+? 
+! Emergency stop.
+<to be read again> 
+                   }
+l.33 ...cs[width=0.75\columnwidth]{./img/ris1.png}
+                                                  
+Output written on thesis-template.pdf (6 pages).
+Transcript written on thesis-template.log.
