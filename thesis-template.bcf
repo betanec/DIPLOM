@@ -3494,4 +3494,92 @@
       <bcf:constraint type="data" datatype="isbn">
         <bcf:field>isbn</bcf:field>
       </bcf:constraint>
-      <bcf:constraint type="
+      <bcf:constraint type="data" datatype="issn">
+        <bcf:field>issn</bcf:field>
+      </bcf:constraint>
+      <bcf:constraint type="data" datatype="ismn">
+        <bcf:field>ismn</bcf:field>
+      </bcf:constraint>
+      <bcf:constraint type="data" datatype="date">
+        <bcf:field>date</bcf:field>
+        <bcf:field>eventdate</bcf:field>
+        <bcf:field>origdate</bcf:field>
+        <bcf:field>urldate</bcf:field>
+      </bcf:constraint>
+      <bcf:constraint type="data" datatype="pattern" pattern="(?:sf|sm|sn|pf|pm|pn|pp)">
+        <bcf:field>gender</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+    <bcf:constraints>
+      <bcf:constraint type="data" datatype="date">
+        <bcf:field>update</bcf:field>
+        <bcf:field>prioritydate</bcf:field>
+        <bcf:field>publicationdate</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+  </bcf:datamodel>
+  <!-- CITATION DATA -->
+  <!-- SECTION 0 -->
+  <bcf:bibdata section="0">
+    <bcf:datasource type="file" datatype="bibtex">chapters/biblio.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 1 -->
+  <bcf:bibdata section="1">
+    <bcf:datasource type="file" datatype="bibtex">chapters/biblio.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="1">
+    <bcf:citekey order="1">Samsonovich03</bcf:citekey>
+    <bcf:citekey order="2">Samsonovich04</bcf:citekey>
+    <bcf:citekey order="3">Samsonovich06</bcf:citekey>
+    <bcf:citekey order="4">Samsonovich02</bcf:citekey>
+    <bcf:citekey order="5">seman_karta</bcf:citekey>
+    <bcf:citekey order="6">seman_karta</bcf:citekey>
+    <bcf:citekey order="7">Samsonovich01</bcf:citekey>
+    <bcf:citekey order="8">neural01</bcf:citekey>
+    <bcf:citekey order="9">Wikipedia01</bcf:citekey>
+    <bcf:citekey order="10">neural10</bcf:citekey>
+    <bcf:citekey order="11">cyberlinka01</bcf:citekey>
+    <bcf:citekey order="12">Samsonovich01</bcf:citekey>
+    <bcf:citekey order="13">Samsonovich01</bcf:citekey>
+    <bcf:citekey order="14">seman_karta</bcf:citekey>
+    <bcf:citekey order="15">Samsonovich05</bcf:citekey>
+    <bcf:citekey order="16">Wikipedia01</bcf:citekey>
+    <bcf:citekey order="17">Wikipedia01</bcf:citekey>
+    <bcf:citekey order="18">neural05</bcf:citekey>
+    <bcf:citekey order="19">seman04</bcf:citekey>
+    <bcf:citekey order="20">seman03</bcf:citekey>
+    <bcf:citekey order="21">seman02</bcf:citekey>
+    <bcf:citekey order="22">neural08</bcf:citekey>
+    <bcf:citekey order="23">w2vec02</bcf:citekey>
+    <bcf:citekey order="24">w2vec01</bcf:citekey>
+    <bcf:citekey order="25">OOP</bcf:citekey>
+    <bcf:citekey order="26">neural06</bcf:citekey>
+    <bcf:citekey order="27">seman05</bcf:citekey>
+    <bcf:citekey order="28">neural09</bcf:citekey>
+    <bcf:citekey order="29">neural07</bcf:citekey>
+    <bcf:citekey order="30">neural08</bcf:citekey>
+    <bcf:citekey order="31">w2vec02</bcf:citekey>
+    <bcf:citekey order="32">w2vec01</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SORTING TEMPLATES -->
+  <bcf:sortingtemplate name="none">
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sortingtemplate>
+  <!-- DATALISTS -->
+  <bcf:datalist section="1"
+                name="none/global//global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+</bcf:controlfile>

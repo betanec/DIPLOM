@@ -1,0 +1,638 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \datalist[entry]{none/global//global/global}
+    \entry{Samsonovich03}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fc4921b4f8c4da7cf9931d51efc99185}{%
+           family={V.},
+           familyi={V\bibinitperiod},
+           given={Samsonovich\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{fullhash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{bibnamehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{authorbibnamehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{authornamehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{authorfullhash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Comparative analysis of implemented cognitive architectures //Biologically Inspired Cognitive Architectures 2011. – IOS Press}
+      \field{year}{2011}
+    \endentry
+    \entry{Samsonovich04}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fc4921b4f8c4da7cf9931d51efc99185}{%
+           family={V.},
+           familyi={V\bibinitperiod},
+           given={Samsonovich\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{fullhash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{bibnamehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{authorbibnamehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{authornamehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{authorfullhash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Emotional biologically inspired cognitive architecture //Biologically Inspired Cognitive Architectures.}
+      \field{year}{2013}
+    \endentry
+    \entry{Samsonovich06}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6039660fe6a46bade8b4da4da79498f3}{%
+           family={P.},
+           familyi={P\bibinitperiod},
+           given={Ilyin\bibnamedelima E.},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{6039660fe6a46bade8b4da4da79498f3}
+      \strng{fullhash}{6039660fe6a46bade8b4da4da79498f3}
+      \strng{bibnamehash}{6039660fe6a46bade8b4da4da79498f3}
+      \strng{authorbibnamehash}{6039660fe6a46bade8b4da4da79498f3}
+      \strng{authornamehash}{6039660fe6a46bade8b4da4da79498f3}
+      \strng{authorfullhash}{6039660fe6a46bade8b4da4da79498f3}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Emotions and feelings}
+      \field{year}{2007}
+    \endentry
+    \entry{Samsonovich02}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fc4921b4f8c4da7cf9931d51efc99185}{%
+           family={V.},
+           familyi={V\bibinitperiod},
+           given={Samsonovich\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{fullhash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{bibnamehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{authorbibnamehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{authornamehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{authorfullhash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \field{extraname}{3}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Socially emotional brain-inspired cognitive architecture framework for artificial intelligence //Cognitive Systems Research.}
+      \field{year}{2020}
+    \endentry
+    \entry{seman_karta}{book}{}
+      \name{author}{1}{}{%
+        {{hash=029b79fce7e9c25d305735e3005634d7}{%
+           family={Langley\bibnamedelima P.},
+           familyi={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Rogers\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           suffix={Laird\bibnamedelimb J.\bibnamedelimi E.},
+           suffixi={L\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{029b79fce7e9c25d305735e3005634d7}
+      \strng{fullhash}{029b79fce7e9c25d305735e3005634d7}
+      \strng{bibnamehash}{029b79fce7e9c25d305735e3005634d7}
+      \strng{authorbibnamehash}{029b79fce7e9c25d305735e3005634d7}
+      \strng{authornamehash}{029b79fce7e9c25d305735e3005634d7}
+      \strng{authorfullhash}{029b79fce7e9c25d305735e3005634d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cognitive architectures: Research issues and challenges //Cognitive}
+      \field{year}{2009}
+    \endentry
+    \entry{Samsonovich01}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fc4921b4f8c4da7cf9931d51efc99185}{%
+           family={V.},
+           familyi={V\bibinitperiod},
+           given={Samsonovich\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{fullhash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{bibnamehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{authorbibnamehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{authornamehash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \strng{authorfullhash}{fc4921b4f8c4da7cf9931d51efc99185}
+      \field{extraname}{4}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Emotional biologically inspired cognitive architecture //Biologically Inspired Cognitive}
+      \field{year}{2013}
+    \endentry
+    \entry{neural01}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d23f75da834e638b112a1296e8c4eacb}{%
+           family={Bai\bibnamedelima S.},
+           familyi={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Koltun\bibnamedelima V.},
+           giveni={K\bibinitperiod\bibinitdelim V\bibinitperiod},
+           suffix={Kolter\bibnamedelima J.Z.},
+           suffixi={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{d23f75da834e638b112a1296e8c4eacb}
+      \strng{fullhash}{d23f75da834e638b112a1296e8c4eacb}
+      \strng{bibnamehash}{d23f75da834e638b112a1296e8c4eacb}
+      \strng{authorbibnamehash}{d23f75da834e638b112a1296e8c4eacb}
+      \strng{authornamehash}{d23f75da834e638b112a1296e8c4eacb}
+      \strng{authorfullhash}{d23f75da834e638b112a1296e8c4eacb}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An empirical evaluation of generic convolutional and recurrent networks for sequence modeling.}
+      \field{year}{2018}
+    \endentry
+    \entry{Wikipedia01}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1b13acfc2e63116cb20a49e7e1e9bcb4}{%
+           family={ресурс]},
+           familyi={р\bibinitperiod},
+           given={Wikipedia\bibnamedelima [Электронный},
+           giveni={W\bibinitperiod\bibinitdelim [\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
+      \strng{fullhash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
+      \strng{bibnamehash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
+      \strng{authorbibnamehash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
+      \strng{authornamehash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
+      \strng{authorfullhash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Рекуррентная нейронная сеть}
+      \field{year}{2020}
+    \endentry
+    \entry{neural10}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a26aa534831a79fc0853dcd7791270e2}{%
+           family={H.},
+           familyi={H\bibinitperiod},
+           given={Yin\bibnamedelimb W.\bibnamedelimi Kann\bibnamedelimb K.\bibnamedelimi Yu\bibnamedelimb M.\bibnamedelimi Schutze},
+           giveni={Y\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{a26aa534831a79fc0853dcd7791270e2}
+      \strng{fullhash}{a26aa534831a79fc0853dcd7791270e2}
+      \strng{bibnamehash}{a26aa534831a79fc0853dcd7791270e2}
+      \strng{authorbibnamehash}{a26aa534831a79fc0853dcd7791270e2}
+      \strng{authornamehash}{a26aa534831a79fc0853dcd7791270e2}
+      \strng{authorfullhash}{a26aa534831a79fc0853dcd7791270e2}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Comparative study of CNN and RNN for natural language processing. 2017. arXiv preprint}
+    \endentry
+    \entry{cyberlinka01}{article}{}
+      \name{author}{1}{}{%
+        {{hash=097b254b89a229a8271d2b36cb7926dc}{%
+           family={И.А.\bibnamedelimi Батраева},
+           familyi={И\bibinitperiod\bibinitdelim Б\bibinitperiod},
+           given={А.С.\bibnamedelimi Лезгян},
+           giveni={А\bibinitperiod\bibinitdelim Л\bibinitperiod},
+           suffix={А.Д.\bibnamedelimi Нарцев},
+           suffixi={А\bibinitperiod\bibinitdelim Н\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{097b254b89a229a8271d2b36cb7926dc}
+      \strng{fullhash}{097b254b89a229a8271d2b36cb7926dc}
+      \strng{bibnamehash}{097b254b89a229a8271d2b36cb7926dc}
+      \strng{authorbibnamehash}{097b254b89a229a8271d2b36cb7926dc}
+      \strng{authornamehash}{097b254b89a229a8271d2b36cb7926dc}
+      \strng{authorfullhash}{097b254b89a229a8271d2b36cb7926dc}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ИСПОЛЬЗОВАНИЕ АНАЛИЗА СЕМАНТИЧЕСКОЙ БЛИЗОСТИ СЛОВ ПРИ РЕШЕНИИ ЗАДАЧИ ОПРЕДЕЛЕНИЯ ЖАНРОВОЙ ПРИНАДЛЕЖНОСТИ ТЕКСТОВ МЕТОДАМИ ГЛУБОКОГО ОБУЧЕНИЯ}
+      \field{year}{2020}
+    \endentry
+    \entry{parser01}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1972755eade064118935f69471379df6}{%
+           family={Standard},
+           familyi={S\bibinitperiod},
+           given={Living},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{1972755eade064118935f69471379df6}
+      \strng{fullhash}{1972755eade064118935f69471379df6}
+      \strng{bibnamehash}{1972755eade064118935f69471379df6}
+      \strng{authorbibnamehash}{1972755eade064118935f69471379df6}
+      \strng{authornamehash}{1972755eade064118935f69471379df6}
+      \strng{authorfullhash}{1972755eade064118935f69471379df6}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{HTML Standard - whatwg}
+    \endentry
+    \entry{neural04}{book}{}
+      \name{author}{1}{}{%
+        {{hash=55fc665b8d49e9bd5f96251b44909867}{%
+           family={П.},
+           familyi={П\bibinitperiod},
+           given={Флах},
+           giveni={Ф\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{55fc665b8d49e9bd5f96251b44909867}
+      \strng{fullhash}{55fc665b8d49e9bd5f96251b44909867}
+      \strng{bibnamehash}{55fc665b8d49e9bd5f96251b44909867}
+      \strng{authorbibnamehash}{55fc665b8d49e9bd5f96251b44909867}
+      \strng{authornamehash}{55fc665b8d49e9bd5f96251b44909867}
+      \strng{authorfullhash}{55fc665b8d49e9bd5f96251b44909867}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Машинное обучение. Наука и искусство построения алгоритмов, который извлекают знания из данных.}
+      \field{year}{2015}
+    \endentry
+    \entry{neural05}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2260fc43007b7bd0c91a95924f6d5cbb}{%
+           family={Y.},
+           familyi={Y\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{2260fc43007b7bd0c91a95924f6d5cbb}
+      \strng{fullhash}{2260fc43007b7bd0c91a95924f6d5cbb}
+      \strng{bibnamehash}{2260fc43007b7bd0c91a95924f6d5cbb}
+      \strng{authorbibnamehash}{2260fc43007b7bd0c91a95924f6d5cbb}
+      \strng{authornamehash}{2260fc43007b7bd0c91a95924f6d5cbb}
+      \strng{authorfullhash}{2260fc43007b7bd0c91a95924f6d5cbb}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Convolutional neural networks for sentence classification // Proc. of the 2014 Conf. on Empirical Methods in Natural Language Processing (EMNLP 2014).}
+      \field{year}{2014}
+    \endentry
+    \entry{seman04}{book}{}
+      \name{author}{2}{}{%
+        {{hash=606840d3675ebad8193e25c74f12c90a}{%
+           family={Селезнев},
+           familyi={С\bibinitperiod},
+           given={Константин},
+           giveni={К\bibinitperiod}}}%
+        {{hash=4e6f81b7671b37df68d7f600a503f7a3}{%
+           family={Владимиров},
+           familyi={В\bibinitperiod},
+           given={Александр},
+           giveni={А\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \strng{namehash}{c5d31bda5b3eff24f9b1636f72e4b05f}
+      \strng{fullhash}{c5d31bda5b3eff24f9b1636f72e4b05f}
+      \strng{bibnamehash}{c5d31bda5b3eff24f9b1636f72e4b05f}
+      \strng{authorbibnamehash}{c5d31bda5b3eff24f9b1636f72e4b05f}
+      \strng{authornamehash}{c5d31bda5b3eff24f9b1636f72e4b05f}
+      \strng{authorfullhash}{c5d31bda5b3eff24f9b1636f72e4b05f}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Лингвистика и обработка текстов // Открытые системы}
+      \field{year}{2013}
+    \endentry
+    \entry{seman03}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ec2975ba76634217838960a101384f27}{%
+           family={Mirkin},
+           familyi={M\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{ec2975ba76634217838960a101384f27}
+      \strng{fullhash}{ec2975ba76634217838960a101384f27}
+      \strng{bibnamehash}{ec2975ba76634217838960a101384f27}
+      \strng{authorbibnamehash}{ec2975ba76634217838960a101384f27}
+      \strng{authornamehash}{ec2975ba76634217838960a101384f27}
+      \strng{authorfullhash}{ec2975ba76634217838960a101384f27}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Core Concepts in Data Analysis: Summarization, Correlation and Visualisation, DOI}
+      \field{year}{2011}
+    \endentry
+    \entry{seman02}{book}{}
+      \name{author}{2}{}{%
+        {{hash=ff4377244c68b8beb3253e53d6387f94}{%
+           family={Manning},
+           familyi={M\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=649b7399037d78a25778825cfd63a4ba}{%
+           family={Schuetze},
+           familyi={S\bibinitperiod},
+           given={Hinrich},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \strng{namehash}{277f440232a144db7bbd1c3dc35dbc7c}
+      \strng{fullhash}{277f440232a144db7bbd1c3dc35dbc7c}
+      \strng{bibnamehash}{277f440232a144db7bbd1c3dc35dbc7c}
+      \strng{authorbibnamehash}{277f440232a144db7bbd1c3dc35dbc7c}
+      \strng{authornamehash}{277f440232a144db7bbd1c3dc35dbc7c}
+      \strng{authorfullhash}{277f440232a144db7bbd1c3dc35dbc7c}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Foundations of Statistical Natural Processing. MIT}
+      \field{year}{1999}
+    \endentry
+    \entry{OOP}{article}{}
+      \name{author}{1}{}{%
+        {{hash=44f7fca7372a6824e7e2e6a3a91bd208}{%
+           family={Weisfeld.},
+           familyi={W\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{44f7fca7372a6824e7e2e6a3a91bd208}
+      \strng{fullhash}{44f7fca7372a6824e7e2e6a3a91bd208}
+      \strng{bibnamehash}{44f7fca7372a6824e7e2e6a3a91bd208}
+      \strng{authorbibnamehash}{44f7fca7372a6824e7e2e6a3a91bd208}
+      \strng{authornamehash}{44f7fca7372a6824e7e2e6a3a91bd208}
+      \strng{authorfullhash}{44f7fca7372a6824e7e2e6a3a91bd208}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Object-Oriented Thought Process. — Fourth Edition. — Addison-Wesley Professional}
+      \field{year}{2013}
+    \endentry
+    \entry{neural06}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d95c46d68dcbb476e9e5289b327da6f7}{%
+           family={Константин\bibnamedelima Симаков},
+           familyi={К\bibinitperiod\bibinitdelim С\bibinitperiod},
+           given={Илья\bibnamedelima Козлов},
+           giveni={И\bibinitperiod\bibinitdelim К\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{d95c46d68dcbb476e9e5289b327da6f7}
+      \strng{fullhash}{d95c46d68dcbb476e9e5289b327da6f7}
+      \strng{bibnamehash}{d95c46d68dcbb476e9e5289b327da6f7}
+      \strng{authorbibnamehash}{d95c46d68dcbb476e9e5289b327da6f7}
+      \strng{authornamehash}{d95c46d68dcbb476e9e5289b327da6f7}
+      \strng{authorfullhash}{d95c46d68dcbb476e9e5289b327da6f7}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Особенности очистки адресных данных // Открытые системы. СУБД.}
+      \field{year}{2013}
+    \endentry
+    \entry{seman05}{book}{}
+      \name{author}{2}{}{%
+        {{hash=6a57e6b3287d4704e39aa19c8fa41b77}{%
+           family={Ильвовский},
+           familyi={И\bibinitperiod},
+           given={Дмитрий},
+           giveni={Д\bibinitperiod}}}%
+        {{hash=02339173b73418725ce8bb09b5e16952}{%
+           family={Черняк},
+           familyi={Ч\bibinitperiod},
+           given={Екатерина},
+           giveni={Е\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \strng{namehash}{16c1b5e4f08e5ce4111ec7216ef83192}
+      \strng{fullhash}{16c1b5e4f08e5ce4111ec7216ef83192}
+      \strng{bibnamehash}{16c1b5e4f08e5ce4111ec7216ef83192}
+      \strng{authorbibnamehash}{16c1b5e4f08e5ce4111ec7216ef83192}
+      \strng{authornamehash}{16c1b5e4f08e5ce4111ec7216ef83192}
+      \strng{authorfullhash}{16c1b5e4f08e5ce4111ec7216ef83192}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: https://www.osp.ru/os/2014/01/13039687}
+      \field{title}{Системы автоматической обработки текстов // Открытые системы. СУБД.}
+      \field{year}{2014}
+    \endentry
+    \entry{neural09}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a26aa534831a79fc0853dcd7791270e2}{%
+           family={H.},
+           familyi={H\bibinitperiod},
+           given={Yin\bibnamedelimb W.\bibnamedelimi Kann\bibnamedelimb K.\bibnamedelimi Yu\bibnamedelimb M.\bibnamedelimi Schutze},
+           giveni={Y\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{a26aa534831a79fc0853dcd7791270e2}
+      \strng{fullhash}{a26aa534831a79fc0853dcd7791270e2}
+      \strng{bibnamehash}{a26aa534831a79fc0853dcd7791270e2}
+      \strng{authorbibnamehash}{a26aa534831a79fc0853dcd7791270e2}
+      \strng{authornamehash}{a26aa534831a79fc0853dcd7791270e2}
+      \strng{authorfullhash}{a26aa534831a79fc0853dcd7791270e2}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Comparative study of CNN and RNN for natural language processing. 2017. arXiv preprint}
+      \field{year}{2010}
+    \endentry
+    \entry{neural07}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0e1ea332ca042ad363115e42f6fc936f}{%
+           family={Н.},
+           familyi={Н\bibinitperiod},
+           given={Кучуганов\bibnamedelima В.},
+           giveni={К\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{0e1ea332ca042ad363115e42f6fc936f}
+      \strng{fullhash}{0e1ea332ca042ad363115e42f6fc936f}
+      \strng{bibnamehash}{0e1ea332ca042ad363115e42f6fc936f}
+      \strng{authorbibnamehash}{0e1ea332ca042ad363115e42f6fc936f}
+      \strng{authornamehash}{0e1ea332ca042ad363115e42f6fc936f}
+      \strng{authorfullhash}{0e1ea332ca042ad363115e42f6fc936f}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Элементы теории ассоциативной семантики // Управление большими системами.}
+      \field{year}{2012}
+    \endentry
+    \entry{neural08}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f5ab94fc985367d73d228c3ac111f9e9}{%
+           family={М.},
+           familyi={М\bibinitperiod},
+           given={Лотман\bibnamedelima Ю.},
+           giveni={Л\bibinitperiod\bibinitdelim Ю\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{f5ab94fc985367d73d228c3ac111f9e9}
+      \strng{fullhash}{f5ab94fc985367d73d228c3ac111f9e9}
+      \strng{bibnamehash}{f5ab94fc985367d73d228c3ac111f9e9}
+      \strng{authorbibnamehash}{f5ab94fc985367d73d228c3ac111f9e9}
+      \strng{authornamehash}{f5ab94fc985367d73d228c3ac111f9e9}
+      \strng{authorfullhash}{f5ab94fc985367d73d228c3ac111f9e9}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Люди и знаки}
+      \field{year}{2010}
+    \endentry
+    \entry{w2vec02}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7c3a395ae7da647429573095afecb767}{%
+           family={MyStem.},
+           familyi={M\bibinitperiod},
+           given={Яндекс},
+           giveni={Я\bibinitperiod},
+           prefix={технология},
+           prefixi={т\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{7c3a395ae7da647429573095afecb767}
+      \strng{fullhash}{7c3a395ae7da647429573095afecb767}
+      \strng{bibnamehash}{7c3a395ae7da647429573095afecb767}
+      \strng{authorbibnamehash}{7c3a395ae7da647429573095afecb767}
+      \strng{authornamehash}{7c3a395ae7da647429573095afecb767}
+      \strng{authorfullhash}{7c3a395ae7da647429573095afecb767}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: https://tech.yandex.ru/mystem}
+      \field{title}{MyStem.}
+    \endentry
+    \entry{w2vec01}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c31308016c23ca339cd0e0d700816588}{%
+           family={Xin.},
+           familyi={X\bibinitperiod},
+           given={Rong},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{c31308016c23ca339cd0e0d700816588}
+      \strng{fullhash}{c31308016c23ca339cd0e0d700816588}
+      \strng{bibnamehash}{c31308016c23ca339cd0e0d700816588}
+      \strng{authorbibnamehash}{c31308016c23ca339cd0e0d700816588}
+      \strng{authornamehash}{c31308016c23ca339cd0e0d700816588}
+      \strng{authorfullhash}{c31308016c23ca339cd0e0d700816588}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Word2vec parameter learning explained. 2014. arXiv preprint arXiv: 1411.2738.}
+      \field{year}{2010}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
