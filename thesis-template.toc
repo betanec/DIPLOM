@@ -46,18 +46,16 @@
 \defcounter {refsection}{1}\relax 
 \contentsline {chapter}{\numberline {4}Реализация программного продукта}{37}{chapter.4}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.1}Использование парсера данных}{37}{section.4.1}%
+\contentsline {section}{\numberline {4.1}Текущая версия реализованной модели}{37}{section.4.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.2}Анализ и отбор полученных данных}{41}{section.4.2}%
+\contentsline {section}{\numberline {4.2}Интеграция моделей из python в C\#}{38}{section.4.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.3}Разметка отобранных данных}{44}{section.4.3}%
+\contentsline {section}{\numberline {4.3}Реализация и дообучение модели}{39}{section.4.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.4}Реализация модели поведения виртуального актора}{46}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Выводы}{40}{section.4.4}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.5}Выводы}{48}{section.4.5}%
+\contentsline {chapter}{Заключение}{41}{chapter*.26}%
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{Заключение}{49}{chapter*.40}%
+\contentsline {chapter}{Список литературы}{42}{section*.27}%
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{Список литературы}{50}{section*.41}%
-\defcounter {refsection}{1}\relax 
-\contentsline {section}{Список литературы}{51}{chapter*.42}%
+\contentsline {section}{Список литературы}{43}{chapter*.28}%

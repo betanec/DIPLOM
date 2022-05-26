@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.5.11)  23 MAY 2022 12:57
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.5.11)  23 MAY 2022 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1431,10 +1431,6 @@ Package fontspec Info: Font family 'LinuxLibertineO(1)' created for font
 (fontspec)             O/BI/OT:script=cyrl;language=dflt;+smcp;mapping=tex-text
 ;"
 
-
-
-LaTeX Warning: Label `pic:ris15' multiply defined.
-
 )
 \openout1 = `thesis-template.aux'.
 
@@ -1449,7 +1445,8 @@ LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
 4.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 24.
@@ -1695,54 +1692,37 @@ Overfull \hbox (0.72363pt too wide) in paragraph at lines 26--26
  []
 
 
-Underfull \vbox (badness 10000) detected at line 110
- []
-
-
-Underfull \hbox (badness 3375) in paragraph at lines 112--113
-[]|\TU/LinuxLibertineO(1)/m/n/10 Реализация статической библиотеки адаптированн
-ых
- []
-
-
-Overfull \hbox (4.2945pt too wide) in paragraph at lines 113--114
+Overfull \hbox (4.2945pt too wide) in paragraph at lines 94--95
  []|\TU/LinuxLibertineO(1)/m/n/10 Исполняемые 
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 116--117
-[]|\TU/LinuxLibertineO(1)/m/n/10 Реализация статической библиотеки адаптированн
-ых
- []
-
-
-Overfull \hbox (4.2945pt too wide) in paragraph at lines 117--118
+Overfull \hbox (4.2945pt too wide) in paragraph at lines 98--99
  []|\TU/LinuxLibertineO(1)/m/n/10 Исполняемые 
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 120--121
-[]|\TU/LinuxLibertineO(1)/m/n/10 Реализация статической библиотеки адаптированн
-ых
+Underfull \vbox (badness 10000) detected at line 100
  []
 
 
-Overfull \hbox (4.2945pt too wide) in paragraph at lines 121--122
+Overfull \hbox (4.2945pt too wide) in paragraph at lines 102--103
  []|\TU/LinuxLibertineO(1)/m/n/10 Исполняемые 
  []
 
-
-Overfull \hbox (4.2945pt too wide) in paragraph at lines 125--126
- []|\TU/LinuxLibertineO(1)/m/n/10 Исполняемые 
+[2]
+Overfull \hbox (15.19978pt too wide) in paragraph at lines 141--144
+\TU/LinuxLibertineO(1)/m/n/12 computational framework across artificial intelli
+gence, cognitive science, neuroscience, and robotics.
  []
 
-[2])
-Overfull \hbox (2.0pt too wide) in paragraph at lines 159--43
- []
+)
+Overfull \hbox (18.0pt too wide) in paragraph at lines 157--43
+[][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--43
+Underfull \hbox (badness 10000) in paragraph at lines 157--43
 
  []
 
@@ -1875,13 +1855,13 @@ File: ./img/ris9.png Graphic file (type bmp)
 File: ./img/normpic.png Graphic file (type bmp)
 <./img/normpic.png>
  [29]
-Overfull \hbox (23.9848pt too wide) in paragraph at lines 114--117
+Overfull \hbox (23.9848pt too wide) in paragraph at lines 116--119
 []\TU/LinuxLibertineO(1)/m/n/12 Возможность идентификации семантической близост
 и между словами сделала модель word2vec
  []
 
 [30]
-Overfull \hbox (5.35979pt too wide) in paragraph at lines 137--141
+Overfull \hbox (5.35979pt too wide) in paragraph at lines 139--143
 []\TU/LinuxLibertineO(1)/m/n/12 Для реализации используются такие пакеты языка 
 программирования python как: ufal.udpipe
  []
@@ -1901,7 +1881,7 @@ File: ./img/oldcmodel2.png Graphic file (type bmp)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [34]
-Overfull \hbox (7.56374pt too wide) in paragraph at lines 240--249
+Overfull \hbox (7.56374pt too wide) in paragraph at lines 242--251
 \TU/LinuxLibertineO(1)/m/n/12 ма. Второй распознает речь и возвращает текст, ко
 торый используется в классах EmotionFromText
  []
@@ -1909,60 +1889,41 @@ Overfull \hbox (7.56374pt too wide) in paragraph at lines 240--249
 [35]
 File: ./img/ncmodel0.jpg Graphic file (type bmp)
 <./img/ncmodel0.jpg>
-) [36] (./chapters/thesis-template-chapter4.tex
+)
+Overfull \hbox (1.65677pt too wide) in paragraph at lines 261--94
+[]\TU/LinuxLibertineO(1)/m/n/12 Производилось проектирование модифицированного 
+прототипа виртуального актора с уче-
+ []
+
+[36] (./chapters/thesis-template-chapter4.tex
 Глава 4.
-File: ./img/code_block_1.png Graphic file (type bmp)
-<./img/code_block_1.png>
+
+Overfull \hbox (2.06877pt too wide) in paragraph at lines 7--9
+[]\TU/LinuxLibertineO(1)/m/n/12 Для решения задачи разработки экспериментальной
+ платформы на базе виртуального окру-
+ []
+
+File: ./img/penis.png Graphic file (type bmp)
+<./img/penis.png>
 [37
 
 
 ]
-File: ./img/code_block_2.png Graphic file (type bmp)
-<./img/code_block_2.png>
- [38]
-File: ./img/code_block_3.png Graphic file (type bmp)
-<./img/code_block_3.png>
-File: ./img/code_block_4.png Graphic file (type bmp)
-<./img/code_block_4.png>
-File: ./img/ris13.png Graphic file (type bmp)
-<./img/ris13.png>
- [39]
-File: ./img/code_block_5.png Graphic file (type bmp)
-<./img/code_block_5.png>
-File: ./img/code_block_6.png Graphic file (type bmp)
-<./img/code_block_6.png>
- [40]
-File: ./img/code_block_6.png Graphic file (type bmp)
-<./img/code_block_6.png>
- [41] [42] [43]
-File: ./img/ris14.png Graphic file (type bmp)
-<./img/ris14.png>
-
-Overfull \hbox (5.08177pt too wide) in paragraph at lines 238--242
-\TU/LinuxLibertineO(1)/m/n/12 слов мы используем готовую модель, которую взяли 
-с ресурса https://rusvectores.org/static/models
+Overfull \hbox (3.45676pt too wide) in paragraph at lines 33--35
+[]\TU/LinuxLibertineO(1)/m/n/12 В расширенной диаграмме классов, было выделено 
+какие стадии обработки проходит аудио-
  []
 
-[44]
-File: ./img/ris15.png Graphic file (type bmp)
-<./img/ris15.png>
- [45]
-File: ./img/ris16.png Graphic file (type bmp)
-<./img/ris16.png>
-File: ./img/ris17.png Graphic file (type bmp)
-<./img/ris17.png>
- [46]
-File: ./img/ris18.png Graphic file (type bmp)
-<./img/ris18.png>
-File: ./img/ris19.png Graphic file (type bmp)
-<./img/ris19.png>
- [47])
-Overfull \hbox (2.77377pt too wide) in paragraph at lines 327--98
-[]\TU/LinuxLibertineO(1)/m/n/12 Была разработано программное обеспечение, позво
-ляющее определять семантическую при-
- []
+File: ./img/ironpy.png Graphic file (type bmp)
+<./img/ironpy.png>
 
-[48] (./chapters/thesis-template-conclusion.tex) [49
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[38]
+
+LaTeX Warning: Reference `pic:table' on page 39 undefined on input line 83.
+
+[39]) [40] (./chapters/thesis-template-conclusion.tex) [41
 
 
 ]
@@ -1980,7 +1941,7 @@ y emotional brain-inspired cognitive architecture framework for artificial inte
 lligence
  []
 
-[50
+[42
 
 
 ]
@@ -1992,7 +1953,7 @@ al. —
 
 )
 Package biblatex Info: Reference section=0 on input line 107.
- [51]
+ [43]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -2052,13 +2013,10 @@ Package polyglossia Info: Option: Russian, numerals=cyrillic.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 142.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
 Package rerunfilecheck Info: File `thesis-template.out' has not changed.
-(rerunfilecheck)             Checksum: 02465C7C03D019C66991EA4F934FC0EF;8485.
+(rerunfilecheck)             Checksum: EFF682003084D88195EF9A27B85A9734;8129.
 
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -2070,12 +2028,12 @@ Package logreq Info: Writing requests to 'thesis-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38469 strings out of 481058
- 737304 string characters out of 5929147
- 1634615 words of memory out of 5000000
- 54744 multiletter control sequences out of 15000+600000
+ 38397 strings out of 481058
+ 735889 string characters out of 5929147
+ 1631131 words of memory out of 5000000
+ 54682 multiletter control sequences out of 15000+600000
  541700 words of font info for 117 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
  60i,11n,98p,1160b,5362s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis-template.pdf (54 pages).
+Output written on thesis-template.pdf (46 pages).
