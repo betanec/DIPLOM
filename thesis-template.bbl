@@ -600,7 +600,7 @@
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{URL: https://cs231n.github.io/convolutional-networks/#pool.}
+      \field{note}{URL: https://cs231n.github.io/convolutional-networks/\#pool.}
       \field{title}{Convolutional Neural Networks for Visual Recognition}
       \field{year}{2021}
     \endentry
