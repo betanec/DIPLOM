@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2020.12.8)  21 JUN 2022 11:02
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2020.12.8)  24 JUN 2022 11:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1760,22 +1760,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--43
 \blx@sectionciteorder@1=\count483
 Package biblatex Info: Reference section=1 on input line 50.
 Package biblatex Info: Setting label 'refsection:1' on input line 50.
- (./chapters/thesis-template-abstract.tex) [1
+ (./chapters/thesis-template-abstract.tex)
+Overfull \hbox (0.10977pt too wide) in paragraph at lines 13--73
+\TU/LinuxLibertineO(1)/m/n/12 щенный в виртуальное окружение, которое создано п
+ри помощи графического движка Unity3d,
+ []
+
+[1
 
 
-] (./thesis-template.toc
-[2
+] (./thesis-template.toc [2
 
 
 ])
 \tf@toc=\write6
 \openout6 = `thesis-template.toc'.
 
- [3] (./chapters/thesis-template-intro.tex) [4
+ [3] (./chapters/thesis-template-intro.tex)
+[4
 
 
-]
-(./chapters/thesis-template-chapter1.tex
+] (./chapters/thesis-template-chapter1.tex
 Глава 1.
 
 Overfull \hbox (6.6867pt too wide) in paragraph at lines 4--6
@@ -1789,7 +1794,7 @@ File: ./img/ris1.png Graphic file (type bmp)
 
 
 ]
-Overfull \hbox (10.63579pt too wide) in paragraph at lines 67--68
+Overfull \hbox (10.63579pt too wide) in paragraph at lines 69--70
 []\TU/LinuxLibertineO(1)/m/n/12 шкала удовольствия-неудовольствия показывает, н
 асколько приятно или, наоборот, непри-
  []
@@ -1816,81 +1821,349 @@ File: ./img/ris6.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[11] [12] [13]
-File: ./img/faber_machine.png Graphic file (type bmp)
-<./img/faber_machine.png>
-File: ./img/vocoder.png Graphic file (type bmp)
-<./img/vocoder.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[14]
-Overfull \hbox (4.72179pt too wide) in paragraph at lines 305--310
-[]\TU/LinuxLibertineO(1)/m/n/12 Устная речь являет собой практически непрерывны
-й звуковой поток, представляющий опре-
- []
-
-[15]
-Overfull \hbox (18.76079pt too wide) in paragraph at lines 371--383
+[11] [12] [13] [14]
+Overfull \hbox (18.76079pt too wide) in paragraph at lines 344--356
  [] 
  []
 
-[16]) [17] (./chapters/thesis-template-chapter2.tex
+[15]) [16] (./chapters/thesis-template-chapter2.tex
 Глава 2.
 File: ./img/ris7.png Graphic file (type bmp)
 <./img/ris7.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[18
+[17
 
 
-] [19] [20] [21]
+] [18] [19] [20]
 File: ./img/ris8.png Graphic file (type bmp)
 <./img/ris8.png>
 
-Overfull \hbox (7.56578pt too wide) in paragraph at lines 164--168
-\TU/LinuxLibertineO(1)/m/n/12 дель используется для вычисления матожидания функ
-ции правдоподобия, на шаге Maximization
- []
+
+LaTeX Warning: Citation '1_speach' on page 21 undefined on input line 164.
+
+[21]
+
+LaTeX Warning: Citation '2_speach' on page 22 undefined on input line 173.
+
+File: ./img/speach_1.jpg Graphic file (type bmp)
+<./img/speach_1.jpg>
+
+LaTeX Warning: Citation '3_speach' on page 22 undefined on input line 178.
+
+
+LaTeX Warning: Citation '4_speach' on page 22 undefined on input line 182.
 
 [22]
-File: ./img/expect_max.png Graphic file (type bmp)
-<./img/expect_max.png>
-File: ./img/mel.png Graphic file (type bmp)
-<./img/mel.png>
+
+LaTeX Warning: Citation '5_speach' on page 23 undefined on input line 189.
+
+Missing character: There is no м in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no й in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no й in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no ы in font cmmi12!
+Missing character: There is no х in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no й in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no ч in font cmmi12!
+Missing character: There is no е in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no т in font cmmi12!
+Missing character: There is no н in font cmmi12!
+Missing character: There is no ы in font cmmi12!
+Missing character: There is no х in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no й in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no ы in font cmmi12!
+Missing character: There is no х in font cmmi12!
+Missing character: There is no п in font cmmi12!
+Missing character: There is no р in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no в in font cmmi12!
+Missing character: There is no и in font cmmi12!
+Missing character: There is no л in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no й in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no ы in font cmmi12!
+Missing character: There is no х in font cmmi12!
+Missing character: There is no ч in font cmmi12!
+Missing character: There is no е in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no т in font cmmi12!
+Missing character: There is no н in font cmmi12!
+Missing character: There is no ы in font cmmi12!
+Missing character: There is no х in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no ы in font cmmi12!
+Missing character: There is no х in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no й in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no й in font cmmi12!
+Missing character: There is no п in font cmmi12!
+Missing character: There is no р in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no в in font cmmi12!
+Missing character: There is no и in font cmmi12!
+Missing character: There is no л in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no й in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no ы in font cmmi12!
+Missing character: There is no х in font cmmi12!
+Missing character: There is no ч in font cmmi12!
+Missing character: There is no е in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no т in font cmmi12!
+Missing character: There is no н in font cmmi12!
+Missing character: There is no ы in font cmmi12!
+Missing character: There is no х in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no й in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no й in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no ы in font cmmi12!
+Missing character: There is no х in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no ч in font cmmi12!
+Missing character: There is no е in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no т in font cmmi12!
+Missing character: There is no н in font cmmi12!
+Missing character: There is no ы in font cmmi12!
+Missing character: There is no х in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no ы in font cmmi12!
+Missing character: There is no х in font cmmi12!
+Missing character: There is no п in font cmmi12!
+Missing character: There is no р in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no в in font cmmi12!
+Missing character: There is no и in font cmmi12!
+Missing character: There is no л in font cmmi12!
+Missing character: There is no ч in font cmmi12!
+Missing character: There is no е in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no т in font cmmi12!
+Missing character: There is no н in font cmmi12!
+Missing character: There is no ы in font cmmi12!
+Missing character: There is no х in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no д in font cmmi12!
+Missing character: There is no я in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no й in font cmmi12!
+File: ./img/speach_2.jpg Graphic file (type bmp)
+<./img/speach_2.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23] [24]
+File: ./img/recur.jpg Graphic file (type bmp)
+<./img/recur.jpg>
+
+
+LaTeX Warning: Citation 'recur' on page 25 undefined on input line 278.
+
+[25]
+File: ./img/recur_2.jpg Graphic file (type bmp)
+<./img/recur_2.jpg>
+File: ./img/recur_3.jpg Graphic file (type bmp)
+<./img/recur_3.jpg>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[23] [24] [25] [26]) [27] (./chapters/thesis-template-chapter3.tex
+Missing character: There is no 𝑥 in font Linux Libertine O/OT:script=cyrl;langu
+age=DFLT;mapping=tex-text;!
+Missing character: There is no 𝑡 in font Linux Libertine O/OT:script=cyrl;langu
+age=DFLT;mapping=tex-text;!
+Missing character: There is no 𝑡 in font Linux Libertine O/OT:script=cyrl;langu
+age=DFLT;mapping=tex-text;!
+
+LaTeX Warning: Citation '2_recur' on page 26 undefined on input line 328.
+
+[26]
+Overfull \hbox (2.53181pt too wide) in paragraph at lines 330--338
+[]\TU/LinuxLibertineO(1)/m/n/12 Двунаправленные RNN (Bidirectional Recurrent Ne
+ural Networks, BRNN) основаны на той идее,
+ []
+
+
+Overfull \hbox (10.10979pt too wide) in paragraph at lines 339--343
+[]\TU/LinuxLibertineO(1)/m/n/12 Например, если нужно предсказать недостающее сл
+ово в середине последовательности (пред-
+ []
+
+[27]
+File: ./img/recur_5.jpg Graphic file (type bmp)
+<./img/recur_5.jpg>
+
+
+LaTeX Warning: Citation '3_recur' on page 28 undefined on input line 359.
+
+
+LaTeX Warning: Citation '4_recur' on page 28 undefined on input line 361.
+
+
+LaTeX Warning: Citation '5_recur' on page 28 undefined on input line 361.
+
+
+LaTeX Warning: Citation '6_recur' on page 28 undefined on input line 361.
+
+
+Overfull \hbox (98.60379pt too wide) in paragraph at lines 361--363
+[]\TU/LinuxLibertineO(1)/m/n/12 В последнее время для решения задачи распознава
+ния речи обретает популярность [[]][[]][[]]
+ []
+
+File: ./img/recur_6.jpg Graphic file (type bmp)
+<./img/recur_6.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[28]
+Overfull \hbox (3.1835pt too wide) in paragraph at lines 384--386
+[]\TU/LinuxLibertineO(1)/m/n/12 Опишем устройство свёрточного слоя. Будем рассм
+атривать слой $\OML/cmm/m/it/12 l$ \TU/LinuxLibertineO(1)/m/n/12 , где $\OML/cm
+m/m/it/12 l$ \TU/LinuxLibertineO(1)/m/n/12 принимается нечёт-
+ []
+
+Missing character: There is no 𝑚 in font Linux Libertine O/OT:script=cyrl;langu
+age=DFLT;mapping=tex-text;!
+[29]
+File: ./img/recur_7.jpg Graphic file (type bmp)
+<./img/recur_7.jpg>
+
+
+LaTeX Warning: Citation '7_recur' on page 30 undefined on input line 407.
+
+Missing character: There is no 𝓎 in font Linux Libertine O/OT:script=cyrl;langu
+age=DFLT;mapping=tex-text;!
+Missing character: There is no 𝑚 in font Linux Libertine O/OT:script=cyrl;langu
+age=DFLT;mapping=tex-text;!
+Missing character: There is no 𝑙 in font Linux Libertine O/OT:script=cyrl;langu
+age=DFLT;mapping=tex-text;!
+File: ./img/recur_8.jpg Graphic file (type bmp)
+<./img/recur_8.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[30]
+File: ./img/recur_9.jpg Graphic file (type bmp)
+<./img/recur_9.jpg>
+
+
+LaTeX Warning: Citation '8_recur' on page 31 undefined on input line 458.
+
+[31]
+Missing character: There is no 𝑚 in font Linux Libertine O/OT:script=cyrl;langu
+age=DFLT;mapping=tex-text;!
+File: ./img/recur_10.jpg Graphic file (type bmp)
+<./img/recur_10.jpg>
+
+
+LaTeX Warning: Citation '9_recur' on page 32 undefined on input line 508.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[32] [33] [34]
+Overfull \hbox (0.4978pt too wide) in paragraph at lines 598--604
+[]\TU/LinuxLibertineO(1)/m/n/12 Предварительное обучение похожа на трансферное 
+обучение, когда вы предварительно обу-
+ []
+
+) [35] (./chapters/thesis-template-chapter3.tex
 Глава 3.
-[28
+[36
 
 
-] [29] [30]
+] [37] [38]
 File: ./img/normpic.png Graphic file (type bmp)
 <./img/normpic.png>
- [31]
-Overfull \hbox (23.9848pt too wide) in paragraph at lines 134--137
+ [39]
+Overfull \hbox (23.9848pt too wide) in paragraph at lines 135--138
 []\TU/LinuxLibertineO(1)/m/n/12 Возможность идентификации семантической близост
 и между словами сделала модель word2vec
  []
 
-[32]
-Overfull \hbox (5.35979pt too wide) in paragraph at lines 157--161
+[40]
+Overfull \hbox (5.35979pt too wide) in paragraph at lines 158--162
 []\TU/LinuxLibertineO(1)/m/n/12 Для реализации используются такие пакеты языка 
 программирования python как: ufal.udpipe
  []
 
-[33]
+[41]
 File: ./img/ris15.png Graphic file (type bmp)
 <./img/ris15.png>
- [34]
+ [42]
 File: ./img/oldcmodel0.png Graphic file (type bmp)
 <./img/oldcmodel0.png>
- [35]
+ [43]
 File: ./img/oldcmodel1.png Graphic file (type bmp)
 <./img/oldcmodel1.png>
 File: ./img/oldcmodel2.png Graphic file (type bmp)
@@ -1899,22 +2172,22 @@ File: ./img/oldcmodel2.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[36]
-Overfull \hbox (7.56374pt too wide) in paragraph at lines 260--269
+[44]
+Overfull \hbox (7.56374pt too wide) in paragraph at lines 261--270
 \TU/LinuxLibertineO(1)/m/n/12 ма. Второй распознает речь и возвращает текст, ко
 торый используется в классах EmotionFromText
  []
 
-[37]
+[45]
 File: ./img/ncmodel0.jpg Graphic file (type bmp)
 <./img/ncmodel0.jpg>
 )
-Overfull \hbox (1.65677pt too wide) in paragraph at lines 279--94
+Overfull \hbox (1.65677pt too wide) in paragraph at lines 280--94
 []\TU/LinuxLibertineO(1)/m/n/12 Производилось проектирование модифицированного 
 прототипа виртуального актора с уче-
  []
 
-[38] (./chapters/thesis-template-chapter4.tex
+[46] (./chapters/thesis-template-chapter4.tex
 Глава 4.
 
 Overfull \hbox (2.06877pt too wide) in paragraph at lines 7--11
@@ -1924,7 +2197,7 @@ Overfull \hbox (2.06877pt too wide) in paragraph at lines 7--11
 
 File: ./img/penis.png Graphic file (type bmp)
 <./img/penis.png>
-[39
+[47
 
 
 ]
@@ -1938,11 +2211,11 @@ File: ./img/ironpy.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[40]
+[48]
 
-LaTeX Warning: Reference `pic:table' on page 41 undefined on input line 92.
+LaTeX Warning: Reference `pic:table' on page 49 undefined on input line 92.
 
-[41]) [42] (./chapters/thesis-template-conclusion.tex) [43
+[49]) [50] (./chapters/thesis-template-conclusion.tex) [51
 
 
 ]
@@ -1967,7 +2240,7 @@ asoning as a general form of metacognition in BICA //Biologically Inspired Cogn
 itive
  []
 
-[44
+[52
 
 
 ]
@@ -1979,29 +2252,37 @@ al. —
 
 )
 Package biblatex Info: Reference section=0 on input line 107.
- [45]
+ [53]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
  (./thesis-template.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 142.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
 Package rerunfilecheck Info: File `thesis-template.out' has not changed.
-(rerunfilecheck)             Checksum: 3E53F8DAB82035B998712D9B8219799B.
+(rerunfilecheck)             Checksum: 4C81CC65D3E952C035A865BC635DE5F8.
 
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                thesis-template
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'thesis-template.run.xml'.
 \openout1 = `thesis-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44956 strings out of 492912
- 844021 string characters out of 6134893
- 1532071 words of memory out of 5000000
- 48335 multiletter control sequences out of 15000+600000
- 541384 words of font info for 106 fonts, out of 8000000 for 9000
+ 44994 strings out of 492912
+ 844589 string characters out of 6134893
+ 1533796 words of memory out of 5000000
+ 48368 multiletter control sequences out of 15000+600000
+ 541368 words of font info for 104 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 55i,11n,92p,1160b,7148s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,12n,92p,1160b,7672s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis-template.pdf (48 pages).
+Output written on thesis-template.pdf (56 pages).

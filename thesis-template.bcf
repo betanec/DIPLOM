@@ -3322,14 +3322,28 @@
     <bcf:citekey order="13">Samsonovich01</bcf:citekey>
     <bcf:citekey order="14">seman_karta</bcf:citekey>
     <bcf:citekey order="15">Samsonovich05</bcf:citekey>
-    <bcf:citekey order="16">neural05</bcf:citekey>
-    <bcf:citekey order="17">seman04</bcf:citekey>
-    <bcf:citekey order="18">seman03</bcf:citekey>
-    <bcf:citekey order="19">seman02</bcf:citekey>
-    <bcf:citekey order="20">neural08</bcf:citekey>
-    <bcf:citekey order="21">w2vec02</bcf:citekey>
-    <bcf:citekey order="22">w2vec01</bcf:citekey>
-    <bcf:citekey order="23">OOP</bcf:citekey>
+    <bcf:citekey order="16">1_speach</bcf:citekey>
+    <bcf:citekey order="17">2_speach</bcf:citekey>
+    <bcf:citekey order="18">3_speach</bcf:citekey>
+    <bcf:citekey order="19">4_speach</bcf:citekey>
+    <bcf:citekey order="20">5_speach</bcf:citekey>
+    <bcf:citekey order="21">recur</bcf:citekey>
+    <bcf:citekey order="22">2_recur</bcf:citekey>
+    <bcf:citekey order="23">3_recur</bcf:citekey>
+    <bcf:citekey order="24">4_recur</bcf:citekey>
+    <bcf:citekey order="25">5_recur</bcf:citekey>
+    <bcf:citekey order="26">6_recur</bcf:citekey>
+    <bcf:citekey order="27">7_recur</bcf:citekey>
+    <bcf:citekey order="28">8_recur</bcf:citekey>
+    <bcf:citekey order="29">9_recur</bcf:citekey>
+    <bcf:citekey order="30">neural05</bcf:citekey>
+    <bcf:citekey order="31">seman04</bcf:citekey>
+    <bcf:citekey order="32">seman03</bcf:citekey>
+    <bcf:citekey order="33">seman02</bcf:citekey>
+    <bcf:citekey order="34">neural08</bcf:citekey>
+    <bcf:citekey order="35">w2vec02</bcf:citekey>
+    <bcf:citekey order="36">w2vec01</bcf:citekey>
+    <bcf:citekey order="37">OOP</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
