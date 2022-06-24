@@ -212,6 +212,7 @@
       \strng{authorbibnamehash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
       \strng{authornamehash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
       \strng{authorfullhash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
+      \field{extraname}{1}
       \field{sortinit}{9}
       \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
@@ -293,6 +294,340 @@
       \field{title}{Goal reasoning as a general form of metacognition in BICA //Biologically Inspired Cognitive Architectures.}
       \field{year}{2014}
     \endentry
+    \entry{1_speach}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7c3a395ae7da647429573095afecb767}{%
+           family={MyStem.},
+           familyi={M\bibinitperiod},
+           given={Яндекс},
+           giveni={Я\bibinitperiod},
+           prefix={технология},
+           prefixi={т\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{7c3a395ae7da647429573095afecb767}
+      \strng{fullhash}{7c3a395ae7da647429573095afecb767}
+      \strng{bibnamehash}{7c3a395ae7da647429573095afecb767}
+      \strng{authorbibnamehash}{7c3a395ae7da647429573095afecb767}
+      \strng{authornamehash}{7c3a395ae7da647429573095afecb767}
+      \strng{authorfullhash}{7c3a395ae7da647429573095afecb767}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: https://habr.com/ru/company/yandex/blog/198556}
+      \field{title}{Распознавание речи}
+      \field{year}{2013}
+    \endentry
+    \entry{2_speach}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f4e28c0327c525c4b870c1ec3c67fd3c}{%
+           family={В.И.},
+           familyi={В\bibinitperiod},
+           given={Алборова\bibnamedelimb Ж.\bibnamedelimi В.\bibnamedelimi Рубцов},
+           giveni={А\bibinitperiod\bibinitdelim Ж\bibinitperiod\bibinitdelim В\bibinitperiod\bibinitdelim Р\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{f4e28c0327c525c4b870c1ec3c67fd3c}
+      \strng{fullhash}{f4e28c0327c525c4b870c1ec3c67fd3c}
+      \strng{bibnamehash}{f4e28c0327c525c4b870c1ec3c67fd3c}
+      \strng{authorbibnamehash}{f4e28c0327c525c4b870c1ec3c67fd3c}
+      \strng{authornamehash}{f4e28c0327c525c4b870c1ec3c67fd3c}
+      \strng{authorfullhash}{f4e28c0327c525c4b870c1ec3c67fd3c}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: http://ainsnt.ru/file/out/841241}
+      \field{title}{Алгоритм и методы распознавания речи}
+      \field{year}{2016}
+    \endentry
+    \entry{3_speach}{article}{}
+      \name{author}{1}{}{%
+        {{hash=02339173b73418725ce8bb09b5e16952}{%
+           family={Черняк},
+           familyi={Ч\bibinitperiod},
+           given={Екатерина},
+           giveni={Е\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{02339173b73418725ce8bb09b5e16952}
+      \strng{fullhash}{02339173b73418725ce8bb09b5e16952}
+      \strng{bibnamehash}{02339173b73418725ce8bb09b5e16952}
+      \strng{authorbibnamehash}{02339173b73418725ce8bb09b5e16952}
+      \strng{authornamehash}{02339173b73418725ce8bb09b5e16952}
+      \strng{authorfullhash}{02339173b73418725ce8bb09b5e16952}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: https://postnauka.ru/longreads/85951}
+      \field{title}{Глубинное обучение в обработке и анализе текстов}
+      \field{year}{2018}
+    \endentry
+    \entry{4_speach}{article}{}
+      \name{author}{1}{}{%
+        {{hash=08c69aa93e7a5f8823379587f15b9189}{%
+           family={С.В.},
+           familyi={С\bibinitperiod},
+           given={Гребнов},
+           giveni={Г\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{08c69aa93e7a5f8823379587f15b9189}
+      \strng{fullhash}{08c69aa93e7a5f8823379587f15b9189}
+      \strng{bibnamehash}{08c69aa93e7a5f8823379587f15b9189}
+      \strng{authorbibnamehash}{08c69aa93e7a5f8823379587f15b9189}
+      \strng{authornamehash}{08c69aa93e7a5f8823379587f15b9189}
+      \strng{authorfullhash}{08c69aa93e7a5f8823379587f15b9189}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: http://vestnik.ispu.ru/sites/vestnik.ispu.ru/files/publications/83-85\_0.pdf}
+      \field{title}{Аналитический обзор методов распознавания речи в системах голосового управления}
+      \field{year}{2009}
+    \endentry
+    \entry{5_speach}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1b13acfc2e63116cb20a49e7e1e9bcb4}{%
+           family={ресурс]},
+           familyi={р\bibinitperiod},
+           given={Wikipedia\bibnamedelima [Электронный},
+           giveni={W\bibinitperiod\bibinitdelim [\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
+      \strng{fullhash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
+      \strng{bibnamehash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
+      \strng{authorbibnamehash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
+      \strng{authornamehash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
+      \strng{authorfullhash}{1b13acfc2e63116cb20a49e7e1e9bcb4}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: https://ru.wikipedia.org/wiki/N-грамма (дата обращения 20.10.2020)}
+      \field{title}{N-грамма}
+    \endentry
+    \entry{recur}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ac2437bb847628a2049bb7bc45f0c6e0}{%
+           family={Донгес},
+           familyi={Д\bibinitperiod},
+           given={Никлас},
+           giveni={Н\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{ac2437bb847628a2049bb7bc45f0c6e0}
+      \strng{fullhash}{ac2437bb847628a2049bb7bc45f0c6e0}
+      \strng{bibnamehash}{ac2437bb847628a2049bb7bc45f0c6e0}
+      \strng{authorbibnamehash}{ac2437bb847628a2049bb7bc45f0c6e0}
+      \strng{authornamehash}{ac2437bb847628a2049bb7bc45f0c6e0}
+      \strng{authorfullhash}{ac2437bb847628a2049bb7bc45f0c6e0}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{TowardsDataScience.com, URL: https://towardsdatascience.com/recurrent-neural-networks-and-lstm-4b601dd822a5 (дата обращения 30.09.2020)}
+      \field{title}{Периодические нейронные сети и LSTM}
+    \endentry
+    \entry{2_recur}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ec4f7108a72cc1c9c9757098e8767abb}{%
+           family={Sovse},
+           familyi={S\bibinitperiod},
+           given={Andrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{ec4f7108a72cc1c9c9757098e8767abb}
+      \strng{fullhash}{ec4f7108a72cc1c9c9757098e8767abb}
+      \strng{bibnamehash}{ec4f7108a72cc1c9c9757098e8767abb}
+      \strng{authorbibnamehash}{ec4f7108a72cc1c9c9757098e8767abb}
+      \strng{authornamehash}{ec4f7108a72cc1c9c9757098e8767abb}
+      \strng{authorfullhash}{ec4f7108a72cc1c9c9757098e8767abb}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: https://github.com/sovse/Rus-SpeechRecognition-LSTM-CTC-VoxForge}
+      \field{title}{Rus speech recognition}
+    \endentry
+    \entry{3_recur}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8830020afb3a759dd8b643c3978b6c60}{%
+           family={Mike\bibnamedelima Schuster},
+           familyi={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Kuldip\bibnamedelimb K.\bibnamedelimi Paliwal},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{8830020afb3a759dd8b643c3978b6c60}
+      \strng{fullhash}{8830020afb3a759dd8b643c3978b6c60}
+      \strng{bibnamehash}{8830020afb3a759dd8b643c3978b6c60}
+      \strng{authorbibnamehash}{8830020afb3a759dd8b643c3978b6c60}
+      \strng{authornamehash}{8830020afb3a759dd8b643c3978b6c60}
+      \strng{authorfullhash}{8830020afb3a759dd8b643c3978b6c60}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: https://www.researchgate.net/publication/3316656\_Bidirectional\_recurrent\_neural\_networks}
+      \field{title}{Bidirectional recurrent neural networks}
+      \field{year}{1997}
+    \endentry
+    \entry{4_recur}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8b5390d71f5b9c6aeff2a8a7d11e6ca4}{%
+           family={I.},
+           familyi={I\bibinitperiod},
+           given={Ozhiganov},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{8b5390d71f5b9c6aeff2a8a7d11e6ca4}
+      \strng{fullhash}{8b5390d71f5b9c6aeff2a8a7d11e6ca4}
+      \strng{bibnamehash}{8b5390d71f5b9c6aeff2a8a7d11e6ca4}
+      \strng{authorbibnamehash}{8b5390d71f5b9c6aeff2a8a7d11e6ca4}
+      \strng{authornamehash}{8b5390d71f5b9c6aeff2a8a7d11e6ca4}
+      \strng{authorfullhash}{8b5390d71f5b9c6aeff2a8a7d11e6ca4}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: https://dzone.com/articles/how-to-train-a-neural-network-to-recognize-speech.}
+      \field{title}{How Neural Networks Recognize Speech-to-Text}
+      \field{year}{2019}
+    \endentry
+    \entry{5_recur}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c27821f40dbd9fb06039fa5e263407b4}{%
+           family={Xuejiao\bibnamedelima Li},
+           familyi={X\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Zixuan\bibnamedelima Zhou},
+           giveni={Z\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{c27821f40dbd9fb06039fa5e263407b4}
+      \strng{fullhash}{c27821f40dbd9fb06039fa5e263407b4}
+      \strng{bibnamehash}{c27821f40dbd9fb06039fa5e263407b4}
+      \strng{authorbibnamehash}{c27821f40dbd9fb06039fa5e263407b4}
+      \strng{authornamehash}{c27821f40dbd9fb06039fa5e263407b4}
+      \strng{authorfullhash}{c27821f40dbd9fb06039fa5e263407b4}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: http://cs229.stanford.edu/proj2017/final-reports/5244201.pdf}
+      \field{title}{Speech Command Recognition with Convolutional Neural Network}
+    \endentry
+    \entry{6_recur}{article}{}
+      \name{author}{1}{}{%
+        {{hash=67af6c66460b9237ed0afb068aa7283f}{%
+           family={Dimitri\bibnamedelima Palaz},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Ronan\bibnamedelima Collobert.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           suffix={Mathew\bibnamedelima Magimai-Doss},
+           suffixi={M\bibinitperiod\bibinitdelim M\bibinithyphendelim D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{67af6c66460b9237ed0afb068aa7283f}
+      \strng{fullhash}{67af6c66460b9237ed0afb068aa7283f}
+      \strng{bibnamehash}{67af6c66460b9237ed0afb068aa7283f}
+      \strng{authorbibnamehash}{67af6c66460b9237ed0afb068aa7283f}
+      \strng{authornamehash}{67af6c66460b9237ed0afb068aa7283f}
+      \strng{authorfullhash}{67af6c66460b9237ed0afb068aa7283f}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: https://ronan.collobert.com/pub/matos/2015\_rawspeech\_icassp.pdf}
+      \field{title}{Convolutional neural networks-based continuous speech recognition using raw speech signal}
+    \endentry
+    \entry{7_recur}{article}{}
+      \list{language}{1}{%
+        {russian}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: https://www.pvsm.ru/algoritmy/210060}
+      \field{title}{Глубокое обучение для новичков: распознаем изображения с помощью сверточных сетей}
+      \field{year}{2016}
+    \endentry
+    \entry{8_recur}{article}{}
+      \name{author}{1}{}{%
+        {{hash=45ebe6bd838f67040a398bf6fd40841d}{%
+           family={Stanford},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{45ebe6bd838f67040a398bf6fd40841d}
+      \strng{fullhash}{45ebe6bd838f67040a398bf6fd40841d}
+      \strng{bibnamehash}{45ebe6bd838f67040a398bf6fd40841d}
+      \strng{authorbibnamehash}{45ebe6bd838f67040a398bf6fd40841d}
+      \strng{authornamehash}{45ebe6bd838f67040a398bf6fd40841d}
+      \strng{authorfullhash}{45ebe6bd838f67040a398bf6fd40841d}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: https://cs231n.github.io/convolutional-networks/#pool.}
+      \field{title}{Convolutional Neural Networks for Visual Recognition}
+      \field{year}{2021}
+    \endentry
+    \entry{9_recur}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6efc371afb708def0cae581ab1e5174f}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Henrik\bibnamedelima I.},
+           giveni={H\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{6efc371afb708def0cae581ab1e5174f}
+      \strng{fullhash}{6efc371afb708def0cae581ab1e5174f}
+      \strng{bibnamehash}{6efc371afb708def0cae581ab1e5174f}
+      \strng{authorbibnamehash}{6efc371afb708def0cae581ab1e5174f}
+      \strng{authornamehash}{6efc371afb708def0cae581ab1e5174f}
+      \strng{authorfullhash}{6efc371afb708def0cae581ab1e5174f}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: http://www.hichristensen.net/CSE291/pdf/lecture1.pdf}
+      \field{title}{Pattern Recognition – Introduction}
+    \endentry
     \entry{neural05}{book}{}
       \name{author}{1}{}{%
         {{hash=2260fc43007b7bd0c91a95924f6d5cbb}{%
@@ -310,8 +645,8 @@
       \strng{authorbibnamehash}{2260fc43007b7bd0c91a95924f6d5cbb}
       \strng{authornamehash}{2260fc43007b7bd0c91a95924f6d5cbb}
       \strng{authorfullhash}{2260fc43007b7bd0c91a95924f6d5cbb}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Convolutional neural networks for sentence classification // Proc. of the 2014 Conf. on Empirical Methods in Natural Language Processing (EMNLP 2014).}
@@ -342,8 +677,8 @@
       \strng{authorbibnamehash}{c5d31bda5b3eff24f9b1636f72e4b05f}
       \strng{authornamehash}{c5d31bda5b3eff24f9b1636f72e4b05f}
       \strng{authorfullhash}{c5d31bda5b3eff24f9b1636f72e4b05f}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Лингвистика и обработка текстов // Открытые системы}
@@ -366,8 +701,8 @@
       \strng{authorbibnamehash}{ec2975ba76634217838960a101384f27}
       \strng{authornamehash}{ec2975ba76634217838960a101384f27}
       \strng{authorfullhash}{ec2975ba76634217838960a101384f27}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Core Concepts in Data Analysis: Summarization, Correlation and Visualisation, DOI}
@@ -398,8 +733,8 @@
       \strng{authorbibnamehash}{277f440232a144db7bbd1c3dc35dbc7c}
       \strng{authornamehash}{277f440232a144db7bbd1c3dc35dbc7c}
       \strng{authorfullhash}{277f440232a144db7bbd1c3dc35dbc7c}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Foundations of Statistical Natural Processing. MIT}
@@ -422,8 +757,8 @@
       \strng{authorbibnamehash}{f5ab94fc985367d73d228c3ac111f9e9}
       \strng{authornamehash}{f5ab94fc985367d73d228c3ac111f9e9}
       \strng{authorfullhash}{f5ab94fc985367d73d228c3ac111f9e9}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Люди и знаки}
@@ -448,8 +783,9 @@
       \strng{authorbibnamehash}{7c3a395ae7da647429573095afecb767}
       \strng{authornamehash}{7c3a395ae7da647429573095afecb767}
       \strng{authorfullhash}{7c3a395ae7da647429573095afecb767}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{URL: https://tech.yandex.ru/mystem}
@@ -472,8 +808,8 @@
       \strng{authorbibnamehash}{c31308016c23ca339cd0e0d700816588}
       \strng{authornamehash}{c31308016c23ca339cd0e0d700816588}
       \strng{authorfullhash}{c31308016c23ca339cd0e0d700816588}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Word2vec parameter learning explained. 2014. arXiv preprint arXiv: 1411.2738.}
@@ -496,8 +832,8 @@
       \strng{authorbibnamehash}{44f7fca7372a6824e7e2e6a3a91bd208}
       \strng{authornamehash}{44f7fca7372a6824e7e2e6a3a91bd208}
       \strng{authorfullhash}{44f7fca7372a6824e7e2e6a3a91bd208}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Object-Oriented Thought Process. — Fourth Edition. — Addison-Wesley Professional}
