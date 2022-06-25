@@ -628,6 +628,42 @@
       \field{note}{URL: http://www.hichristensen.net/CSE291/pdf/lecture1.pdf}
       \field{title}{Pattern Recognition – Introduction}
     \endentry
+    \entry{svm}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e5f4b822b2f4eb77e85dfce9e1939e9e}{%
+           family={Tharwat\bibnamedelima A},
+           familyi={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Hassanien\bibnamedelima AE},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           suffix={Gabel\bibnamedelima T},
+           suffixi={G\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{e5f4b822b2f4eb77e85dfce9e1939e9e}
+      \strng{fullhash}{e5f4b822b2f4eb77e85dfce9e1939e9e}
+      \strng{bibnamehash}{e5f4b822b2f4eb77e85dfce9e1939e9e}
+      \strng{authorbibnamehash}{e5f4b822b2f4eb77e85dfce9e1939e9e}
+      \strng{authornamehash}{e5f4b822b2f4eb77e85dfce9e1939e9e}
+      \strng{authorfullhash}{e5f4b822b2f4eb77e85dfce9e1939e9e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{International conference on advanced intelligent systems and informatics}
+      \field{title}{Parameter optimization of support vector machine using dragon fly algorithm.}
+    \endentry
+    \entry{wiki_mlp}{article}{}
+      \list{language}{1}{%
+        {english}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{note}{URL: https://en.wikipedia.org/wiki/Multilayer\_perceptron}
+      \field{title}{Multilayer perceptron}
+    \endentry
     \entry{neural05}{book}{}
       \name{author}{1}{}{%
         {{hash=2260fc43007b7bd0c91a95924f6d5cbb}{%

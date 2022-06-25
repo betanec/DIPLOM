@@ -30,40 +30,40 @@
 \defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {2.5}Wav2vec}{34}{section.2.5}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {2.6}SVC}{35}{section.2.6}% 
+\contentsline {section}{\numberline {2.6}kNN}{36}{section.2.6}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {2.7}kNN}{35}{section.2.7}% 
+\contentsline {section}{\numberline {2.7}SVM}{39}{section.2.7}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {2.8}MLP}{35}{section.2.8}% 
+\contentsline {section}{\numberline {2.8}MLP}{40}{section.2.8}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {2.9}Выводы}{35}{section.2.9}% 
+\contentsline {section}{\numberline {2.9}Выводы}{41}{section.2.9}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{\numberline {3}Проектирование модели поведения виртуального агента}{36}{chapter.3}% 
+\contentsline {chapter}{\numberline {3}Проектирование модели поведения виртуального агента}{42}{chapter.3}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3.1}Проектирование модифицированного прототипа Виртуального Актора}{36}{section.3.1}% 
+\contentsline {section}{\numberline {3.1}Проектирование модифицированного прототипа Виртуального Актора}{42}{section.3.1}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3.2}Инструменты извлечения речевых признаков из речи}{38}{section.3.2}% 
+\contentsline {section}{\numberline {3.2}Инструменты извлечения речевых признаков из речи}{44}{section.3.2}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3.3}Модель определения эмотивной составляющей в тексте}{40}{section.3.3}% 
+\contentsline {section}{\numberline {3.3}Модель определения эмотивной составляющей в тексте}{46}{section.3.3}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3.4}Инструменты для семантического анализа текста}{40}{section.3.4}% 
+\contentsline {section}{\numberline {3.4}Инструменты для семантического анализа текста}{46}{section.3.4}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3.5}Построение блок-схем и UML диаграмм}{43}{section.3.5}% 
+\contentsline {section}{\numberline {3.5}Построение блок-схем и UML диаграмм}{49}{section.3.5}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3.6}Выводы}{46}{section.3.6}% 
+\contentsline {section}{\numberline {3.6}Выводы}{52}{section.3.6}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{\numberline {4}Реализация программного продукта}{47}{chapter.4}% 
+\contentsline {chapter}{\numberline {4}Реализация программного продукта}{53}{chapter.4}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.1}Текущая версия реализованной модели}{47}{section.4.1}% 
+\contentsline {section}{\numberline {4.1}Текущая версия реализованной модели}{53}{section.4.1}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.2}Интеграция моделей из python в C\#}{48}{section.4.2}% 
+\contentsline {section}{\numberline {4.2}Интеграция моделей из python в C\#}{54}{section.4.2}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.3}Реализация и дообучение модели}{49}{section.4.3}% 
+\contentsline {section}{\numberline {4.3}Реализация и дообучение модели}{55}{section.4.3}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.4}Выводы}{50}{section.4.4}% 
+\contentsline {section}{\numberline {4.4}Выводы}{56}{section.4.4}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{Заключение}{51}{chapter*.32}% 
+\contentsline {chapter}{Заключение}{57}{chapter*.35}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{Список литературы}{52}{section*.33}% 
+\contentsline {chapter}{Список литературы}{58}{section*.36}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{Список литературы}{53}{chapter*.34}% 
+\contentsline {section}{Список литературы}{60}{chapter*.37}% 

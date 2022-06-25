@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2020.12.8)  24 JUN 2022 11:23
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2020.12.8)  25 JUN 2022 17:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1494,6 +1494,10 @@ Package fontspec Info: Font family 'LinuxLibertineO(1)' created for font
 (fontspec)             O/BI/OT:script=cyrl;language=DFLT;+smcp;mapping=tex-text
 ;"
 
+
+
+LaTeX Warning: Label `eq:speach_formula_12' multiply defined.
+
 )
 \openout1 = `thesis-template.aux'.
 
@@ -2092,33 +2096,66 @@ Overfull \hbox (0.4978pt too wide) in paragraph at lines 598--604
 обучение, когда вы предварительно обу-
  []
 
-) [35] (./chapters/thesis-template-chapter3.tex
+File: ./img/wav_0.png Graphic file (type bmp)
+<./img/wav_0.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[35]
+Overfull \hbox (1.2168pt too wide) in paragraph at lines 668--672
+[]\TU/LinuxLibertineO(1)/m/n/12 С целью получения ожидаемого распределения, отд
+еляется условно десеть негативных при-
+ []
+
+
+Overfull \hbox (1.4148pt too wide) in paragraph at lines 673--675
+[]\TU/LinuxLibertineO(1)/m/n/12 Предсказывая следующие шаги, мы выполняется зад
+ача, называемая самостоятельным обу-
+ []
+
+[36]
+File: ./img/knn_diagramma.png Graphic file (type bmp)
+<./img/knn_diagramma.png>
+ [37]
+Overfull \hbox (0.8598pt too wide) in paragraph at lines 758--759
+[]\TU/LinuxLibertineO(1)/m/n/12 Плохо масштабируется: поскольку KNN является ле
+нивым алгоритмом, он занимает боль-
+ []
+
+[38]
+File: ./img/svm_diagramma.jpg Graphic file (type bmp)
+<./img/svm_diagramma.jpg>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[39] [40]) [41] (./chapters/thesis-template-chapter3.tex
 Глава 3.
-[36
+[42
 
 
-] [37] [38]
+] [43] [44]
 File: ./img/normpic.png Graphic file (type bmp)
 <./img/normpic.png>
- [39]
+ [45]
 Overfull \hbox (23.9848pt too wide) in paragraph at lines 135--138
 []\TU/LinuxLibertineO(1)/m/n/12 Возможность идентификации семантической близост
 и между словами сделала модель word2vec
  []
 
-[40]
+[46]
 Overfull \hbox (5.35979pt too wide) in paragraph at lines 158--162
 []\TU/LinuxLibertineO(1)/m/n/12 Для реализации используются такие пакеты языка 
 программирования python как: ufal.udpipe
  []
 
-[41]
+[47]
 File: ./img/ris15.png Graphic file (type bmp)
 <./img/ris15.png>
- [42]
+ [48]
 File: ./img/oldcmodel0.png Graphic file (type bmp)
 <./img/oldcmodel0.png>
- [43]
+ [49]
 File: ./img/oldcmodel1.png Graphic file (type bmp)
 <./img/oldcmodel1.png>
 File: ./img/oldcmodel2.png Graphic file (type bmp)
@@ -2127,13 +2164,13 @@ File: ./img/oldcmodel2.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[44]
+[50]
 Overfull \hbox (7.56374pt too wide) in paragraph at lines 261--270
 \TU/LinuxLibertineO(1)/m/n/12 ма. Второй распознает речь и возвращает текст, ко
 торый используется в классах EmotionFromText
  []
 
-[45]
+[51]
 File: ./img/ncmodel0.jpg Graphic file (type bmp)
 <./img/ncmodel0.jpg>
 )
@@ -2142,7 +2179,7 @@ Overfull \hbox (1.65677pt too wide) in paragraph at lines 280--94
 прототипа виртуального актора с уче-
  []
 
-[46] (./chapters/thesis-template-chapter4.tex
+[52] (./chapters/thesis-template-chapter4.tex
 Глава 4.
 
 Overfull \hbox (2.06877pt too wide) in paragraph at lines 7--11
@@ -2152,7 +2189,7 @@ Overfull \hbox (2.06877pt too wide) in paragraph at lines 7--11
 
 File: ./img/penis.png Graphic file (type bmp)
 <./img/penis.png>
-[47
+[53
 
 
 ]
@@ -2166,11 +2203,11 @@ File: ./img/ironpy.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[48]
+[54]
 
-LaTeX Warning: Reference `pic:table' on page 49 undefined on input line 92.
+LaTeX Warning: Reference `pic:table' on page 55 undefined on input line 92.
 
-[49]) [50] (./chapters/thesis-template-conclusion.tex) [51
+[55]) [56] (./chapters/thesis-template-conclusion.tex) [57
 
 
 ]
@@ -2216,7 +2253,7 @@ Overfull \hbox (106.07968pt too wide) in paragraph at lines 4--4
 /longreads/85951. 
  []
 
-[52
+[58
 
 
 ]
@@ -2266,7 +2303,7 @@ Overfull \hbox (99.45769pt too wide) in paragraph at lines 4--4
 E291/pdf/lecture1.pdf. 
  []
 
-
+[59]
 Overfull \hbox (24.67865pt too wide) in paragraph at lines 4--4
 []\TU/LinuxLibertineO(1)/m/it/12 Weisfeld. M. \TU/LinuxLibertineO(1)/m/n/12 The
  Object-Oriented Thought Process. — Fourth Edition. — Addison-Wesley Profession
@@ -2275,41 +2312,32 @@ al. —
 
 )
 Package biblatex Info: Reference section=0 on input line 107.
- [53]
+ [60]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
  (./thesis-template.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 142.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
+Package rerunfilecheck Info: File `thesis-template.out' has not changed.
+(rerunfilecheck)             Checksum: 78B43B8BF5157612E0F42C350A6F3C6F.
 
-
-Package rerunfilecheck Warning: File `thesis-template.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis-template.out':
-(rerunfilecheck)             Before: AADDC85D0465E9D1E720C3A1620995C5
-(rerunfilecheck)             After:  4C81CC65D3E952C035A865BC635DE5F8.
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please rerun LaTeX.
+LaTeX Warning: There were multiply-defined labels.
 
 Package logreq Info: Writing requests to 'thesis-template.run.xml'.
 \openout1 = `thesis-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45021 strings out of 492912
- 845702 string characters out of 6134893
- 1532857 words of memory out of 5000000
- 48395 multiletter control sequences out of 15000+600000
+ 45050 strings out of 492912
+ 846379 string characters out of 6134893
+ 1534802 words of memory out of 5000000
+ 48421 multiletter control sequences out of 15000+600000
  541368 words of font info for 104 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  55i,12n,92p,1160b,7570s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis-template.pdf (56 pages).
+Output written on thesis-template.pdf (63 pages).

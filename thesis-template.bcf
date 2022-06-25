@@ -3336,14 +3336,16 @@
     <bcf:citekey order="27">7_recur</bcf:citekey>
     <bcf:citekey order="28">8_recur</bcf:citekey>
     <bcf:citekey order="29">9_recur</bcf:citekey>
-    <bcf:citekey order="30">neural05</bcf:citekey>
-    <bcf:citekey order="31">seman04</bcf:citekey>
-    <bcf:citekey order="32">seman03</bcf:citekey>
-    <bcf:citekey order="33">seman02</bcf:citekey>
-    <bcf:citekey order="34">neural08</bcf:citekey>
-    <bcf:citekey order="35">w2vec02</bcf:citekey>
-    <bcf:citekey order="36">w2vec01</bcf:citekey>
-    <bcf:citekey order="37">OOP</bcf:citekey>
+    <bcf:citekey order="30">svm</bcf:citekey>
+    <bcf:citekey order="31">wiki_mlp</bcf:citekey>
+    <bcf:citekey order="32">neural05</bcf:citekey>
+    <bcf:citekey order="33">seman04</bcf:citekey>
+    <bcf:citekey order="34">seman03</bcf:citekey>
+    <bcf:citekey order="35">seman02</bcf:citekey>
+    <bcf:citekey order="36">neural08</bcf:citekey>
+    <bcf:citekey order="37">w2vec02</bcf:citekey>
+    <bcf:citekey order="38">w2vec01</bcf:citekey>
+    <bcf:citekey order="39">OOP</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
