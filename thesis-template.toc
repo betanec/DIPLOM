@@ -44,13 +44,11 @@
 \defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {3.2}Инструменты извлечения речевых признаков из речи}{44}{section.3.2}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3.3}Модель определения эмотивной составляющей в тексте}{46}{section.3.3}% 
+\contentsline {section}{\numberline {3.3}Инструменты для семантического анализа текста}{46}{section.3.3}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3.4}Инструменты для семантического анализа текста}{46}{section.3.4}% 
+\contentsline {section}{\numberline {3.4}Построение блок-схем и UML диаграмм}{48}{section.3.4}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3.5}Построение блок-схем и UML диаграмм}{49}{section.3.5}% 
-\defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3.6}Выводы}{52}{section.3.6}% 
+\contentsline {section}{\numberline {3.5}Выводы}{51}{section.3.5}% 
 \defcounter {refsection}{1}\relax 
 \contentsline {chapter}{\numberline {4}Реализация программного продукта}{53}{chapter.4}% 
 \defcounter {refsection}{1}\relax 
@@ -58,12 +56,16 @@
 \defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {4.2}Интеграция моделей из python в C\#}{54}{section.4.2}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.3}Реализация и дообучение модели}{55}{section.4.3}% 
+\contentsline {section}{\numberline {4.3}Команды испольняемые посредством распозавания речи}{55}{section.4.3}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.4}Выводы}{56}{section.4.4}% 
+\contentsline {section}{\numberline {4.4}Реализация и дообучение модели}{57}{section.4.4}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{Заключение}{57}{chapter*.35}% 
+\contentsline {section}{\numberline {4.5}Результаты}{59}{section.4.5}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{Список литературы}{58}{section*.36}% 
+\contentsline {section}{\numberline {4.6}Выводы}{60}{section.4.6}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{Список литературы}{60}{chapter*.37}% 
+\contentsline {chapter}{Заключение}{61}{chapter*.42}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {chapter}{Список литературы}{62}{section*.43}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{Список литературы}{64}{chapter*.44}% 
