@@ -1,0 +1,20 @@
+{
+"done": true, "response": {
+    "@type": "type.googleapis.com/yandex.cloud.ai.stt.v2.LongRunningRecognitionResponse",
+    "chunks": [
+    {
+    "alternatives": [
+    {
+        "text": "привет мир",
+        "confidence": 1
+    }
+    ],
+    "channelTag": "1"
+    }
+    ]
+},
+"id": "e03sup6d5h1qr574ht99",
+"createdAt": "2019-04-21T22:49:29Z",
+"createdBy": "ajes08feato88ehbbhqq",
+"modifiedAt": "2019-04-21T22:49:36Z"
+}
