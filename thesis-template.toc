@@ -64,8 +64,8 @@
 \defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {4.6}Выводы}{60}{section.4.6}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{Заключение}{61}{chapter*.42}% 
+\contentsline {chapter}{Заключение}{63}{chapter*.46}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{Список литературы}{62}{section*.43}% 
+\contentsline {chapter}{Список литературы}{64}{section*.47}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{Список литературы}{64}{chapter*.44}% 
+\contentsline {section}{Список литературы}{66}{chapter*.48}% 

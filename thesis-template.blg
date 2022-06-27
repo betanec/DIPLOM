@@ -1,17 +1,17 @@
 [1] Config.pm:304> INFO - This is Biber 2.12
 [1] Config.pm:307> INFO - Logfile is 'thesis-template.blg'
-[87] biber:315> INFO - === Sat Jun 25, 2022, 17:52:30
-[171] Biber.pm:371> INFO - Reading 'thesis-template.bcf'
-[510] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[513] Biber.pm:889> INFO - Found 35 citekeys in bib section 1
-[513] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[575] Biber.pm:4093> INFO - Processing section 1
-[605] Biber.pm:4254> INFO - Looking for bibtex format file 'chapters/biblio.bib' for section 1
-[617] bibtex.pm:1512> INFO - LaTeX decoding ...
-[989] bibtex.pm:1329> INFO - Found BibTeX data source 'chapters/biblio.bib'
-[1448] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1449] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1449] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
-[1449] Biber.pm:3927> INFO - No sort tailoring available for locale 'ru-RU'
-[1523] bbl.pm:636> INFO - Writing 'thesis-template.bbl' with encoding 'UTF-8'
-[1559] bbl.pm:739> INFO - Output to thesis-template.bbl
+[91] biber:315> INFO - === Mon Jun 27, 2022, 13:39:04
+[238] Biber.pm:371> INFO - Reading 'thesis-template.bcf'
+[567] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[570] Biber.pm:889> INFO - Found 35 citekeys in bib section 1
+[571] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[635] Biber.pm:4093> INFO - Processing section 1
+[691] Biber.pm:4254> INFO - Looking for bibtex format file 'chapters/biblio.bib' for section 1
+[704] bibtex.pm:1512> INFO - LaTeX decoding ...
+[1081] bibtex.pm:1329> INFO - Found BibTeX data source 'chapters/biblio.bib'
+[1549] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1549] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1549] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[1550] Biber.pm:3927> INFO - No sort tailoring available for locale 'ru-RU'
+[1624] bbl.pm:636> INFO - Writing 'thesis-template.bbl' with encoding 'UTF-8'
+[1659] bbl.pm:739> INFO - Output to thesis-template.bbl
